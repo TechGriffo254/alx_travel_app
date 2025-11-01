@@ -1,0 +1,120 @@
+# Python# Python
+
+__pycache__/__pycache__/
+
+*.py[cod]*.py[cod]
+
+*.so*$py.class
+
+*.egg-info/*.so
+
+*.egg.Python
+
+build/
+
+# Djangodevelop-eggs/
+
+*.logdist/
+
+db.sqlite3downloads/
+
+/mediaeggs/
+
+/staticfiles.eggs/
+
+lib/
+
+# Environmentlib64/
+
+.envparts/
+
+venv/sdist/
+
+env/var/
+
+wheels/
+
+# IDEsshare/python-wheels/
+
+.vscode/*.egg-info/
+
+.idea/.installed.cfg
+
+*.swp*.egg
+
+.DS_StoreMANIFEST
+
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+/media
+/staticfiles
+/static
+
+# Environment variables
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# Logs
+logs/
+*.log
+
+# Database
+*.sql
+*.sqlite
+*.sqlite3
+
+# Backup files
+*.bak
+
+# OS
+Thumbs.db
+.DS_Store
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# pytype
+.pytype/
+
+# Cython
+cython_debug/
